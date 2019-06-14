@@ -33,17 +33,17 @@ hero_banner_3_url:
 top_banner_1_img:
   default: https://bbs.ui.com.cn/uploads/default/original/3X/4/5/45244284e91efe4baf5de0f14a3f5caa4a47802b.jpeg
   type: string
-  description: 推荐 topic 图片地址
+  description: "推荐 topic 图片地址"
 
 top_banner_1_title:
-  default: [分享][非官方] EdgeOS 中文汉化方法一键脚本
+  default: "[分享][非官方] EdgeOS 中文汉化方法一键脚本"
   type: string
-  description: 标题
+  description: "标题"
 
 top_banner_1_subtitle:
-  default: 使用须知 对 EdgeOS 的 i18N 汉化正在进行中，但有很
+  default: "使用须知 对 EdgeOS 的 i18N 汉化正在进行中，但有很"
   type: string
-  description: 子标题
+  description: "子标题"
 
 top_banner_1_url:
   default: https://bbs.ui.com.cn/t/edgeos/47729
@@ -51,19 +51,19 @@ top_banner_1_url:
   description: "链接地址"
 
 top_banner_2_img:
-  default: https://bbs.ui.com.cn/uploads/default/original/3X/c/9/c9d16c24966bac2e7ff044ecc9c1cc2995a87e63.jpeg
+  default: "https://bbs.ui.com.cn/uploads/default/original/3X/c/9/c9d16c24966bac2e7ff044ecc9c1cc2995a87e63.jpeg"
   type: string
-  description: 推荐 topic 图片地址
+  description: "推荐 topic 图片地址"
 
 top_banner_2_title:
-  default: 新华书店——UBNT让无线科技感受文字之美
+  default: "新华书店——UBNT让无线科技感受文字之美"
   type: string
-  description: 标题
+  description: "标题"
 
 top_banner_2_subtitle:
-  default: 官方网站： http://ubnt.joint-harvest.com
+  default: "官方网站： http://ubnt.joint-harvest.com"
   type: string
-  description: 子标题
+  description: "子标题"
 
 top_banner_2_url:
   default: https://bbs.ui.com.cn/t/ubnt/48084
@@ -73,17 +73,17 @@ top_banner_2_url:
 top_banner_3_img:
   default: https://bbs.ui.com.cn/uploads/default/original/2X/5/508e083a50490d5374fef19e3b2c8b636aff096f.png
   type: string
-  description: 推荐 topic 图片地址
+  description: "推荐 topic 图片地址"
 
 top_banner_3_title:
-  default: UBNT(Ubiquiti)中国区授权代理商列表
+  default: "UBNT(Ubiquiti)中国区授权代理商列表"
   type: string
-  description: 标题
+  description: "标题"
 
 top_banner_3_subtitle:
-  default: Ubiquiti Networks 中国区的全部授权代理商地点及联系
+  default: "Ubiquiti Networks 中国区的全部授权代理商地点及联系"
   type: string
-  description: 子标题
+  description: "子标题"
 
 top_banner_3_url:
   default: https://bbs.ui.com.cn/t/ubnt-ubiquiti/7194
