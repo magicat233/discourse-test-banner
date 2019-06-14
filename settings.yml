@@ -1,0 +1,84 @@
+hero_banner_img_1:
+  description: |
+    轮播图图片
+  type:
+    upload
+
+hero_banner_url_1:
+  description: |
+    轮播图链接地址
+
+hero_banner_img_2:
+  description: |
+    轮播图图片
+  type:
+    upload
+
+hero_banner_url_2:
+  description: |
+    轮播图链接地址
+
+hero_banner_img_3:
+  description: |
+    轮播图图片
+  type:
+    upload
+
+hero_banner_url_3:
+  description: |
+    轮播图链接地址
+
+
+top_banner_img_1:
+  description: |
+    推荐话题图片
+  type:
+    upload
+
+top_banner_title_1:
+  description: |
+    推荐话题标题
+
+top_banner_subtitle_1:
+  description: |
+    推荐话题子标题
+
+top_banner_url_1:
+  description: |
+    推荐话题子标题
+
+top_banner_img_2:
+  description: |
+    推荐话题图片
+  type:
+    upload
+
+top_banner_title_2:
+  description: |
+    推荐话题标题
+
+top_banner_subtitle_2:
+  description: |
+    推荐话题子标题
+
+top_banner_url_2:
+  description: |
+    推荐话题子标题
+
+top_banner_img_3:
+  description: |
+    推荐话题图片
+  type:
+    upload
+
+top_banner_title_3:
+  description: |
+    推荐话题标题
+
+top_banner_subtitle_3:
+  description: |
+    推荐话题子标题
+
+top_banner_url_3:
+  description: |
+    推荐话题子标题
