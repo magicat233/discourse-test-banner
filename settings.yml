@@ -1,8 +1,6 @@
 hero_banner_img_1:
   description: |
     轮播图图片
-  type:
-    upload
 
 hero_banner_url_1:
   description: |
@@ -11,8 +9,6 @@ hero_banner_url_1:
 hero_banner_img_2:
   description: |
     轮播图图片
-  type:
-    upload
 
 hero_banner_url_2:
   description: |
@@ -21,8 +17,6 @@ hero_banner_url_2:
 hero_banner_img_3:
   description: |
     轮播图图片
-  type:
-    upload
 
 hero_banner_url_3:
   description: |
@@ -32,8 +26,6 @@ hero_banner_url_3:
 top_banner_img_1:
   description: |
     推荐话题图片
-  type:
-    upload
 
 top_banner_title_1:
   description: |
@@ -50,8 +42,6 @@ top_banner_url_1:
 top_banner_img_2:
   description: |
     推荐话题图片
-  type:
-    upload
 
 top_banner_title_2:
   description: |
@@ -68,8 +58,6 @@ top_banner_url_2:
 top_banner_img_3:
   description: |
     推荐话题图片
-  type:
-    upload
 
 top_banner_title_3:
   description: |
