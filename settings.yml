@@ -1,86 +1,81 @@
-hero_banner_1:
-  img:
-    default: https://bbs.ui.com.cm/
-    type: string
-    description: "轮播图图片"
+#主 banner
+hero_banner_1_img:
+  default: https://bbs.ui.com.cm/
+  type: string
+  description: "轮播图图片"
 
-  url:
-    default: https://bbs.ui.com.cm/
-    type: string
-    description: "轮播图链接地址"
+hero_banner_1_url:
+  default: https://bbs.ui.com.cm/
+  type: string
+  description: "轮播图链接地址"
 
-hero_banner_2:
-  img:
-    default: https://bbs.ui.com.cm/
-    type: string
-    description: "轮播图图片"
+hero_banner_2_img:
+  default: https://bbs.ui.com.cm/
+  type: string
+  description: "轮播图图片"
 
-  url:
-    default: https://bbs.ui.com.cm/
-    type: string
-    description: "轮播图链接地址"
+hero_banner_2_url:
+  default: https://bbs.ui.com.cm/
+  type: string
+  description: "轮播图链接地址"
 
-hero_banner_3:
-  img:
-    default: https://bbs.ui.com.cm/
-    type: string
-    description: "轮播图图片"
+hero_banner_3_img:
+  default: https://bbs.ui.com.cm/
+  type: string
+  description: "轮播图图片"
 
-  url:
-    default: https://bbs.ui.com.cm/
-    type: string
-    description: "轮播图链接地址"
+hero_banner_3_url:
+  default: https://bbs.ui.com.cm/
+  type: string
+  description: "轮播图链接地址"
+# 右侧推荐主题
+top_banner_1_img:
+  default: https://bbs.ui.com.cm/
+  type: string
 
-top_banner_1:
-  img:
-    default: https://bbs.ui.com.cm/
-    type: string
+top_banner_1_title:
+  default: 标题
+  type: string
 
-  title:
-    default: 标题
-    type: string
+top_banner_1_subtitle:
+  default: 子标题
+  type: string
 
-  subtitle:
-    default: 子标题
-    type: string
+top_banner_1_url:
+  default: https://bbs.ui.com.cm/
+  type: string
+  description: "推荐话题链接地址"
 
-  url:
-    default: https://bbs.ui.com.cm/
-    type: string
-    description: "推荐话题链接地址"
+top_banner_2_img:
+  default: https://bbs.ui.com.cm/
+  type: string
 
-top_banner_2:
-  img:
-    default: https://bbs.ui.com.cm/
-    type: string
+top_banner_2_title:
+  default: 标题
+  type: string
 
-  title:
-    default: 标题
-    type: string
+top_banner_2_subtitle:
+  default: 子标题
+  type: string
 
-  subtitle:
-    default: 子标题
-    type: string
+top_banner_2_url:
+  default: https://bbs.ui.com.cm/
+  type: string
+  description: "推荐话题链接地址"
 
-  url:
-    default: https://bbs.ui.com.cm/
-    type: string
-    description: "推荐话题链接地址"
+top_banner_3_img:
+  default: https://bbs.ui.com.cm/
+  type: string
 
-top_banner_3:
-  img:
-    default: https://bbs.ui.com.cm/
-    type: string
+top_banner_3_title:
+  default: 标题
+  type: string
 
-  title:
-    default: 标题
-    type: string
+top_banner_3_subtitle:
+  default: 子标题
+  type: string
 
-  subtitle:
-    default: 子标题
-    type: string
-
-  url:
-    default: https://bbs.ui.com.cm/
-    type: string
-    description: "推荐话题链接地址"
+top_banner_3_url:
+  default: https://bbs.ui.com.cm/
+  type: string
+  description: "推荐话题链接地址"
